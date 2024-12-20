@@ -1,0 +1,7 @@
+en:
+  label_orfilter: "OR filters"
+  label_orfilter_and_any: "AND any following"
+  label_orfilter_or_any: "OR any following"
+  label_orfilter_or_all: "OR all following"
+  label_match: "match"
+  label_not_match: "not match"

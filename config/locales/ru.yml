@@ -1,0 +1,7 @@
+ru:
+  label_orfilter: "OR фильтры"
+  label_orfilter_and_any: "AND любые следующие"
+  label_orfilter_or_any: "OR любые следующие"
+  label_orfilter_or_all: "OR все следующие"
+  label_match: "соответствует"
+  label_not_match: "не соответствует"
