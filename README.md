@@ -8,7 +8,7 @@ Compatibility
 
 Installation
 ----------------------
-* Clone or [download](https://github.com/apsmir/custom_field_sql/archive/main.zip) this repo into your **redmine_root/plugins/** folder
+* Clone or [download](https://github.com/apsmir/redmine_or_filters/archive/main.zip) this repo into your **redmine_root/plugins/** folder
 
 ```
 $ git clone https://github.com/apsmir/redmine_or_filters
