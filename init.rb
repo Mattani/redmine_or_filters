@@ -1,4 +1,4 @@
-Redmine::Plugin.register :redmine_or_filter do
+Redmine::Plugin.register :redmine_or_filters do
   name 'Redmine or filter'
   author 'Alexey Smirnov'
   description 'This is a plugin for Redmine which adds OR filters. Development based on discussion https://www.redmine.org/issues/4939'
